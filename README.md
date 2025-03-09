@@ -11,11 +11,3 @@ This project involves building a machine learning model to accurately detect mal
 - **Model Used**: Logistic Regression
 - **Tech Stack**: Python, Pandas, Scikit-Learn, Matplotlib, NumPy
 
----
-
-## 🔑 How to Run the Project:
-
-### Step 1: Clone the repository
-```bash
-git clone https://github.com/your-username/malicious-website-detection.git
-cd malicious-website-detection
